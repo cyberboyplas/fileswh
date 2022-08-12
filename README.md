@@ -1,2 +1,2 @@
 # fileswh
-Filar requeridas para WhPshiher
+Filar requeridas para WhPhisher
